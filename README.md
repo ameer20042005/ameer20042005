@@ -8,7 +8,7 @@ I work on making large language models speak Iraqi Arabic without making things 
 
 ### What I'm working on
 
-**[Gemma-Iraqi](https://github.com/ameer20042005/Gemma-Iraqi)** — a Gemma 3n E4B model fine-tuned for Iraqi Arabic task-oriented dialogue, with a guard layer that verifies every factual claim against a source catalog before it reaches the user. Dialect lives in the weights; facts never do. 48/48 on a multi-turn behavioral harness.
+**[Gemma-Iraqi](https://github.com/ameer20042005/Gemma_iraq)** — a Gemma 3n E4B model fine-tuned for Iraqi Arabic task-oriented dialogue, with a guard layer that verifies every factual claim against a source catalog before it reaches the user. Dialect lives in the weights; facts never do. 48/48 on a multi-turn behavioral harness.
 
 **Deepfake detection** — comparing hybrid architectures (ResNet-18 paired with Bi-LSTM, Transformer, and RNN heads) on Celeb-DF-v2, with a desktop application for inference.
 
